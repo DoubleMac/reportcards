@@ -1,8 +1,6 @@
 # hatchways-mosaic
 software assessment - report cards
 
-Apologies about the incredibly long amount of time between starting and submitting, I do have a fulltime job plus other commitments so I had to spread my time on this over a couple days. To make up for it I put in some extra polish in terms of testing and error handling. Now obviously I don't really have any way to prove this but I estimate I spent around a few hours on this.
-
 ## Complexity
 Let c be the number of courses, s be the number of students, t be the number of tests, and m be the number of marks. 
 
